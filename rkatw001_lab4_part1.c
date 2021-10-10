@@ -12,7 +12,7 @@ int main(void) {
 
     /* Insert your solution below */
     while (1) {
-        Tick();
+        tick();
     }
     return 1;
 }
